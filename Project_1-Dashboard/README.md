@@ -106,7 +106,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="https://github.com/user-attachments/assets/fb50fe45-bde9-48ad-9246-a728ea3d3c88">
+<img src="https://github.com/user-attachments/assets/fb50fe45-bde9-48ad-9246-a728ea3d3c88"  width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion
 
