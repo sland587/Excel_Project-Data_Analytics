@@ -74,13 +74,14 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Screenshot1.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot1.png)
+![1_Salary_Dashboard_Screenshot1](https://github.com/user-attachments/assets/dc207113-4db5-4e51-9eae-ccc3fb71e4fa)
 
 📉 Dashboard Implementation
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Job_Title.png" width="400" height="500" alt="Salary Dashboard Title">
+<img src="https://github.com/user-attachments/assets/6d998b82-1694-4a4d-aae1-efd628aedf43" width="400" height="500" alt="Salary Dashboard Title">
 
 #### ⏰ Count of Job Schedule Type
+
 
 ```
 =FILTER(J2#,(NOT(ISNUMBER(SEARCH("and",J2#))+ISNUMBER(SEARCH(",",J2#))))*(J2#<>0))
