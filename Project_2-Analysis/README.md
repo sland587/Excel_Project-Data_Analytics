@@ -18,12 +18,12 @@ I approached the dataset with these questions in mind:
 ### Practical Skills Utilized 
 
 Through this analysis, I gained practical experience using:
-
-- **Pivot Tables** – for summarizing and grouping data efficiently
-- **Pivot Charts** – to visualize trends and comparisons
-- **DAX (Data Analysis Expressions)** – for custom calculations
-- **Power Query** – to clean, transform, and load structured data
-- **Power Pivot** – to create a scalable data model
+    
+ - **Pivot Tables** – for summarizing and grouping data efficiently
+ - **Pivot Charts** – to visualize trends and comparisons
+ - **DAX (Data Analysis Expressions)** – for custom calculations
+ - **Power Query** – to clean, transform, and load structured data
+ - **Power Pivot** – to create a scalable data model
 
 This project solidified my comfort with Excel’s data modeling ecosystem and helped me think more analytically when approaching business questions.
 
@@ -35,31 +35,31 @@ The dataset used for this project contains real-world data science job informati
 
 ### Focus: Using Power Query to Prep Data
 
-#### Extract & Transform
+- #### Extract & Transform
 
-I created two queries: one with full job data and another with job ID-to-skill mappings. Using transformation steps, I:
-- Converted column types and cleaned inconsistent text
-- Removed irrelevant columns
-- Normalized data for analysis (e.g., trimming whitespace)
-    - data_jobs_all
+     I created two queries: one with full job data and another with job ID-to-skill mappings. Using transformation steps, I:
+    - Converted column types and cleaned inconsistent text
+    - Removed irrelevant columns
+    -  Normalized data for analysis (e.g., trimming whitespace)
+          
+- data_jobs_all
 
-        ![2_Project_Analysis_Screenshot1](https://github.com/user-attachments/assets/e4699d69-9def-4816-a332-45dbf5ac45fa)
+  ![2_Project_Analysis_Screenshot1](https://github.com/user-attachments/assets/e4699d69-9def-4816-a332-45dbf5ac45fa)
+  
+- data_job_skills
 
-
-    - data_job_skills
-
-        ![2_Project_Analysis_Screenshot2](https://github.com/user-attachments/assets/be8990d6-1e11-4e9f-89eb-1ce6220a083e)
+  ![2_Project_Analysis_Screenshot2](https://github.com/user-attachments/assets/be8990d6-1e11-4e9f-89eb-1ce6220a083e)
 
 This process helped me appreciate how clean data fuels better analysis—a key takeaway I’ll apply in any analytics role.
 
+- #### Load
 
-#### 🔗 Load
+     Once cleaned, I loaded both tables into Excel’s data model for deeper analysis with PivotTables and DAX.
 
-Once cleaned, I loaded both tables into Excel’s data model for deeper analysis with PivotTables and DAX.
-- data_jobs_all
+    - data_jobs_all
         ![2_Project_Analysis_Screenshot3](https://github.com/user-attachments/assets/589b40b2-d63c-4dc3-b649-e36313072918)
-
-- data_job_skills
+    
+    - data_job_skills
        ![2_Project_Analysis_Screenshot4](https://github.com/user-attachments/assets/e0ec834f-42c1-4583-a6b3-230797d18d09)
 
 
