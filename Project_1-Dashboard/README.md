@@ -11,7 +11,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 My final dashboard is in [Salary_Dashboard.xlsx](Salary_Dashboard.xlsx).
-[Download](https://github.com/sland587/Excel_Project-Data_Analytics/blob/main/Project_1-Dashboard/Salary_Dashboard.xlsx)
+[Download](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx)
 
 ### Excel Skills Used
 
