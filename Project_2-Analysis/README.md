@@ -15,9 +15,9 @@ I approached the dataset with these questions in mind:
 3. **What are the top skills of data professionals?**
 4. **What’s the pay for the top 10 skills?**
 
-### Through this analysis, I gained practical experience using:
+### Practical Skills Utilized 
 
-The following Excel skills were utilized for analysis:
+Through this analysis, I gained practical experience using:
 
 - **Pivot Tables** – for summarizing and grouping data efficiently
 - **Pivot Charts** – to visualize trends and comparisons
