@@ -108,8 +108,8 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Data_Validation.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="https://github.com/user-attachments/assets/fb50fe45-bde9-48ad-9246-a728ea3d3c88">
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from the  [Luke Barousse Excel course](https://www.lukebarousse.com/excel), this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
