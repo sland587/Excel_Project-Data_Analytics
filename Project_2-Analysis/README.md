@@ -2,59 +2,55 @@
 
 ## Introduction
 
-As a current job seeker, I set out to understand what skills top employers request and how to land more pay.
+As someone transitioning into a data analyst role, I wanted to sharpen my Excel analytics skills while exploring what employers really value in data-related careers. I enrolled in [Luke Barousse's Excel course](https://www.lukebarousse.com/excel) and took on this project to not only practice technical skills but also gain insight into how skills align with salary trends in the job market.
 
-### Questions to Analyze
+This hands-on project allowed me to explore a real-world dataset from 2023 and apply essential Excel features to answer key questions relevant to job seekers and hiring managers alike.
 
-To understand the data science job market, I asked the following:
+### Project Goals
+
+I approached the dataset with these questions in mind:
 
 1. **Do more skills get you better pay?**
 2. **What’s the salary for data jobs in different regions?**
 3. **What are the top skills of data professionals?**
 4. **What’s the pay for the top 10 skills?**
 
-### Excel Skills Used
+### Through this analysis, I gained practical experience using:
 
 The following Excel skills were utilized for analysis:
 
-- **📊 Pivot Tables**
-- **📈 Pivot Charts**
-- **🧮 DAX (Data Analysis Expressions)**
-- **🔍 Power Query**
-- **💪 Power Pivot**
+- Pivot Tables – for summarizing and grouping data efficiently
+- Pivot Charts – to visualize trends and comparisons
+- DAX (Data Analysis Expressions) – for custom calculations
+- Power Query – to clean, transform, and load structured data
+- Power Pivot – to create a scalable data model
+
+This project solidified my comfort with Excel’s data modeling ecosystem and helped me think more analytically when approaching business questions.
 
 ### Data Jobs Dataset
 
 The dataset used for this project contains real-world data science job information from 2023. The data is from the [Luke Barousse Excel course](https://www.lukebarousse.com/excel), which provides a foundation for analyzing data using Excel. 
 
-It includes detailed information on:
-
-- **👨‍💼 Job titles**
-- **💰 Salaries**
-- **📍 Locations**
-- **🛠️ Skills**
-
 ## 1️⃣ Do more skills get you better pay?
 
-### 🔍 Skill: Power Query (ETL)
+### Focus: Using Power Query to Prep Data
 
-#### 📥 Extract
+#### Extract & Transform
 
-- I first used Power Query to extract the original data from [Datasets/data_salary_all.xlsx](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) and created two queries:
-    - 🗃️ First one with all the data jobs information.
-    - 🔧 The second listing the skills for each job ID.
-
-#### 🔄 Transform
-
-- Then, I transformed each query by changing column types, removing unnecessary columns, cleaning text to eliminate specific words, and trimming excess whitespace.
-    - 📊 data_jobs_all
+I created two queries: one with full job data and another with job ID-to-skill mappings. Using transformation steps, I:
+- Converted column types and cleaned inconsistent text
+- Removed irrelevant columns
+- Normalized data for analysis (e.g., trimming whitespace)
+    - data_jobs_all
 
         ![2_Project_Analysis_Screenshot1](https://github.com/user-attachments/assets/e4699d69-9def-4816-a332-45dbf5ac45fa)
 
 
-    - 🛠️ data_job_skills
+    - data_job_skills
 
         ![2_Project_Analysis_Screenshot2](https://github.com/user-attachments/assets/be8990d6-1e11-4e9f-89eb-1ce6220a083e)
+
+This process helped me appreciate how clean data fuels better analysis—a key takeaway I’ll apply in any analytics role.
 
 
 #### 🔗 Load
