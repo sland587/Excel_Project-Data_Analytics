@@ -40,7 +40,7 @@ It includes detailed information on:
 
 #### 📥 Extract
 
-- I first used Power Query to extract the original data [Datasets/data_salary_all.xlsx](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) and create two queries:
+- I first used Power Query to extract the original data from [Datasets/data_salary_all.xlsx](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) and created two queries:
     - 🗃️ First one with all the data jobs information.
     - 🔧 The second listing the skills for each job ID.
 
