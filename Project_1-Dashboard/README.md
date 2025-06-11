@@ -92,11 +92,12 @@ IF(
 
 🍽️ Background Table
 
-![1_Salary_Dashboard_Type.png](/0_Resources/Images/1_Salary_Dashboard_Screenshot2.png)
+![1_Salary_Dashboard_Screenshot2](https://github.com/user-attachments/assets/17d94566-c87d-4218-81bf-e4ee8496c40d)
+
 
 📉 Dashboard Implementation:
 
-<img src="/0_Resources/Images/1_Salary_Dashboard_Type.png" width="350" height="500" alt="Salary Dashboard Type">
+<img src="https://github.com/user-attachments/assets/8b075d39-05c4-45b7-8031-71d96745a565" width="350" height="500" alt="Salary Dashboard Type">
 
 ### ❎ Data Validation
 
