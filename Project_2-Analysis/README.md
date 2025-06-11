@@ -173,8 +173,8 @@ I found that roles listing more technical skills often offered higher median sal
 
 ### Takeaway
 
-- This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
-
+- This visualization was one of my favorites. It let me combine salary and skill popularity in a single chart. I’m learning how visual storytelling can make insights more digestible for stakeholders.
+  
 ## Conclusion
 This project gave me a chance to apply core Excel skills to a real-world dataset and explore what matters most in data careers. I didn’t just learn new tools—I gained a clearer picture of how data can drive smarter career decisions.
 
