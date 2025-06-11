@@ -19,11 +19,11 @@ I approached the dataset with these questions in mind:
 
 The following Excel skills were utilized for analysis:
 
-- Pivot Tables – for summarizing and grouping data efficiently
-- Pivot Charts – to visualize trends and comparisons
-- DAX (Data Analysis Expressions) – for custom calculations
-- Power Query – to clean, transform, and load structured data
-- Power Pivot – to create a scalable data model
+- **Pivot Tables** – for summarizing and grouping data efficiently
+- **Pivot Charts** – to visualize trends and comparisons
+- **DAX (Data Analysis Expressions)** – for custom calculations
+- **Power Query** – to clean, transform, and load structured data
+- **Power Pivot** – to create a scalable data model
 
 This project solidified my comfort with Excel’s data modeling ecosystem and helped me think more analytically when approaching business questions.
 
@@ -55,14 +55,11 @@ This process helped me appreciate how clean data fuels better analysis—a key t
 
 #### 🔗 Load
 
-- Finally, I loaded both transformed queries into the workbook, setting the foundation for my subsequent analysis.
-    - 📊 data_jobs_all
-
+Once cleaned, I loaded both tables into Excel’s data model for deeper analysis with PivotTables and DAX.
+- data_jobs_all
         ![2_Project_Analysis_Screenshot3](https://github.com/user-attachments/assets/589b40b2-d63c-4dc3-b649-e36313072918)
 
-
-    - 🛠️ data_job_skills
-
+- data_job_skills
        ![2_Project_Analysis_Screenshot4](https://github.com/user-attachments/assets/e0ec834f-42c1-4583-a6b3-230797d18d09)
 
 
