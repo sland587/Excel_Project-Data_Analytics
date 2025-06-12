@@ -4,7 +4,7 @@
 
 ## Introduction
 
-As someone actively transitioning into a data analyst role, I created this dashboard to better understand salary trends across the data job market—and to put into practice the Excel skills I’ve gained through hands-on learning.
+As someone actively transitioning into a data analyst role, I created this dashboard to better understand salary trends across the data job market and to put into practice the Excel skills I’ve gained through hands-on learning.
 
 This [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx) is based on a dataset provided by the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel), which helped solidify my understanding of Excel as a powerful tool for data analysis. The dashboard provides a clean, interactive view of salaries by job title, location, and work type, tailored for job seekers like myself to make informed career decisions.
 
