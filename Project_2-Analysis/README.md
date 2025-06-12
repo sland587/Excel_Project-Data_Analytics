@@ -4,11 +4,11 @@
 
 As someone transitioning into a data analyst role, I wanted to sharpen my Excel analytics skills while exploring what employers really value in data-related careers. I enrolled in [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and took on this project to not only practice technical skills but also gain insight into how skills align with salary trends in the job market.
 
-This hands-on project allowed me to explore a real-world dataset from 2023 and apply essential Excel features to answer key questions relevant to job seekers and hiring managers alike.
+This hands-on project allowed me to explore a real-world [dataset](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) from 2023 and apply essential Excel features to answer key questions relevant to job seekers and hiring managers alike.
 
 ### Project Goals
 
-I approached the dataset with these questions in mind:
+I approached the [dataset](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) with these questions in mind:
 
 1. **Do more skills get you better pay?**
 2. **What’s the salary for data jobs in different regions?**
@@ -176,6 +176,6 @@ I found that roles listing more technical skills often offered higher median sal
 - Seeing these results inspired me to expolore SQL deeper. This visualization was helpful as it let me combine salary and skill popularity in a single chart. I’m learning how visual storytelling can make insights more digestible for stakeholders.
   
 ## Conclusion
-This project gave me a chance to apply core Excel skills to a real-world dataset and explore what matters most in data careers. I didn’t just learn new tools—I gained a clearer picture of how data can drive smarter career decisions.
+This project gave me a chance to apply core Excel skills to a real-world [dataset](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/Datasets/data_jobs_salary_all.xlsx) and explore what matters most in data careers. I didn’t just learn new tools—I gained a clearer picture of how data can drive smarter career decisions.
 
 From Power Query to DAX, every step of the project strengthened my confidence in Excel as an analytics platform. More importantly, it sharpened my ability to ask the right questions, shape data meaningfully, and communicate insights clearly — which are skills I’m excited to bring into a data analyst role.
