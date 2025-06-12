@@ -173,7 +173,7 @@ I found that roles listing more technical skills often offered higher median sal
 
 ### Takeaway
 
-- This visualization was one of my favorites. It let me combine salary and skill popularity in a single chart. I’m learning how visual storytelling can make insights more digestible for stakeholders.
+- Seeing these results inspired me to expolore SQL deeper. This visualization was helpful as it let me combine salary and skill popularity in a single chart. I’m learning how visual storytelling can make insights more digestible for stakeholders.
   
 ## Conclusion
 This project gave me a chance to apply core Excel skills to a real-world dataset and explore what matters most in data careers. I didn’t just learn new tools—I gained a clearer picture of how data can drive smarter career decisions.
