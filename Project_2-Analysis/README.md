@@ -2,7 +2,7 @@
 
 ## Introduction
 
-As someone transitioning into a data analyst role, I wanted to sharpen my Excel analytics skills while exploring what employers really value in data-related careers. I enrolled in [Luke Barousse's Excel course](https://www.lukebarousse.com/excel) and took on this project to not only practice technical skills but also gain insight into how skills align with salary trends in the job market.
+As someone transitioning into a data analyst role, I wanted to sharpen my Excel analytics skills while exploring what employers really value in data-related careers. I enrolled in [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and took on this project to not only practice technical skills but also gain insight into how skills align with salary trends in the job market.
 
 This hands-on project allowed me to explore a real-world dataset from 2023 and apply essential Excel features to answer key questions relevant to job seekers and hiring managers alike.
 
@@ -29,7 +29,7 @@ This project solidified my comfort with Excel’s data modeling ecosystem and he
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The data is from the [Luke Barousse Excel course](https://www.lukebarousse.com/excel), which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. The data is from the [ Barousse's Excel for Data Analytics course](https://www.barousse.com/excel), which provides a foundation for analyzing data using Excel. 
 
 ## 1️⃣ Do more skills get you better pay?
 
