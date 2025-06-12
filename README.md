@@ -1,16 +1,16 @@
 # My Excel Data Analytics Projects
 
-This repository documents my hands-on learning experience with Excel for Data Analytics. It includes excel files and notes covering core concepts such as data cleaning, visualization, pivot tables, lookup functions, and statistical analysis.
+This repository documents my hands-on learning experience with [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel). It includes excel files and notes covering core concepts such as data cleaning, visualization, pivot tables, lookup functions, and statistical analysis.
 
 ## Salary Dashboard
-This dashboard was completed as part of an Excel for Data Analytics course and is designed to demonstrate my working knowledge of core Excel skills. The interactive dashboard showcases the effective use of charts, formulas and functions, and data validation to analyze and present data in a meaningful way. The goal was to apply best practices in data organization and visualization to create a user-friendly, insight-driven tool.
+This dashboard was completed as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and is designed to demonstrate my working knowledge of core Excel skills. The interactive dashboard showcases the effective use of charts, formulas and functions, and data validation to analyze and present data in a meaningful way. The goal was to apply best practices in data organization and visualization to create a user-friendly, insight-driven tool.
 
 [Checkout my work here](Project_1-Dashboard)
 
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/1e36cff8-9e24-4c67-a0ab-6610148c01ac)
 
 ## Salary Analysis
-This project was completed as part of an Excel for Data Analytics course to demonstrate my proficiency in advanced Excel data analysis tools. Through this guided project, I applied Pivot Tables, Pivot Charts, Power Query, Power Pivot, and DAX (Data Analysis Expressions) to clean, model, and analyze data efficiently. The objective was to build a dynamic, scalable analysis that highlights key insights while showcasing my ability to work with Excel's full analytical capabilities beyond standard formulas.
+This project was completed as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) to demonstrate my proficiency in advanced Excel data analysis tools. Through this guided project, I applied Pivot Tables, Pivot Charts, Power Query, Power Pivot, and DAX (Data Analysis Expressions) to clean, model, and analyze data efficiently. The objective was to build a dynamic, scalable analysis that highlights key insights while showcasing my ability to work with Excel's full analytical capabilities beyond standard formulas.
 
 
 [Checkout my work here](Project_2-Analysis)  
