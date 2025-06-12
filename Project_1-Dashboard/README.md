@@ -109,13 +109,18 @@ Dashboard Implementation:
 
 #### Filtered List
 
-- **Enhanced Data Validation:** Implementing the filtered list as a data validation rule under the `Job Title`, `Country`, and `Type` option in the Data tab ensures:
-    - User input is restricted to predefined, validated schedule types
-    - Incorrect or inconsistent entries are prevented
-    - Overall usability of the dashboard is enhanced
-
 <img src="https://github.com/user-attachments/assets/fb50fe45-bde9-48ad-9246-a728ea3d3c88"  width="425" height="400" alt="Salary Dashboard Data Validation">
+
+##### Analysis & Reflection
+
+###### Insights
+To ensure a clean, interactive user experience, I used Data Validation for the job title, country, and type dropdowns.
+
+###### Takeaway
+Small UX enhancements like dropdowns can turn a spreadsheet into a user-friendly tool.
 
 ## Conclusion
 
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from the  [Luke Barousse Excel course](https://www.lukebarousse.com/excel), this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries. 
+This Excel dashboard was more than a technical exercise. It gave me the opportunity to practice translating raw data into meaningful insights. I now feel more confident using Excel to support data-driven decisions and build tools that make complex information accessible.
+
+As I pivot into data analytics, I’ll continue building on this foundation with more advanced tools (Power BI, SQL, Python), while refining my ability to create clear, actionable visualizations.
