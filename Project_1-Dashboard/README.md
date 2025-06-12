@@ -1,61 +1,67 @@
-# Excel Salary Dashboard
+# Project 1: Excel Salary Dashboard
 
-![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/12280e08-ef13-4360-b4a8-e0c958bbb3a3)
-
+![Final Dashboard](https://github.com/user-attachments/assets/12280e08-ef13-4360-b4a8-e0c958bbb3a3)
 
 ## Introduction
 
-This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
+As someone actively transitioning into a data analyst role, I created this dashboard to better understand salary trends across the data job market—and to put into practice the Excel skills I’ve gained through hands-on learning.
 
-The data is from the [Luke Barousse Excel course](https://www.lukebarousse.com/excel), which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx) is based on a dataset provided by the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel), which helped solidify my understanding of Excel as a powerful tool for data analysis. The dashboard provides a clean, interactive view of salaries by job title, location, and work type, tailored for job seekers like myself to make informed career decisions.
 
-### Dashboard File
-My final dashboard is in [Salary_Dashboard.xlsx](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx).
+### Project Goals
 
-### Excel Skills Used
+The goal of this project was to create a user-friendly dashboard that provides insight into data job salaries across different countries, job titles, and work schedules. The dashboard enables users to:
 
-The following Excel skills were utilized for analysis:
+- Explore global and role-based salary patterns
+- Identify high-paying job titles and regions
+- Interact with a clean, dynamic interface using validated filters
 
-- **Charts**
-- **Formulas and Functions**
-- **Data Validation**
+This project helped reinforce my understanding of Excel for data analytics and dashboard design.
+
+### Practical Skills Utilized
+
+Through this analysis, I gained practical experience using:
+
+- **Charts** – for visual storytelling of data  
+- **Formulas & Functions** – to generate flexible, dynamic insights  
+- **Data Validation** – to improve user experience and dashboard reliability
 
 ### Data Jobs Dataset
+The dataset used in this project was provided as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and includes real-world data science job information from 2023.
 
-The dataset used for this project contains real-world data science job information from 2023 provided by the [Excel for Data Analytics course](https://www.lukebarousse.com/excel). It includes detailed information on:
-
-- **Job titles**
-- **Salaries**
-- **Locations**
-- **Skills**
-
-## Dashboard Build
+## Dashboard Build Process
 
 ### Charts
 
-#### Data Science Job Salaries - Bar Chart
+- #### Job Title Salary Comparison (Bar Chart)
 
-<img src="https://github.com/user-attachments/assets/0b7bcfc5-bb8c-457f-be8b-6b5f9d6faa55" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="https://github.com/user-attachments/assets/0b7bcfc5-bb8c-457f-be8b-6b5f9d6faa55" width="850" height="550" alt="Job Salary Bar Chart">
 
-- **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
-- **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
-- **Data Organization:** Sorted job titles by descending salary for improved readability.
-- **Insights Gained:** This enables quick identification of salary trends, noting that Senior roles and Engineers are higher-paying than Analyst roles.
 
-#### 🗺️ Country Median Salaries - Map Chart
-![1_Salary_Dashboard_Country_Map](https://github.com/user-attachments/assets/f79ddb88-0bf3-4627-b7d6-c7b777642dd5)
 
-- **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
-- **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
-- **Data Representation:** Plotted median salary for each country with available data.
-- **Visual Enhancement:** Improved readability and immediate understanding of geographic salary trends.
-- **Insights Gained:** Enables quick grasp of global salary disparities and highlights high/low salary regions.
+#### Analysis & Reflection
+
+##### Insights
+To visualize salary differences clearly, I used a horizontal bar chart sorted by descending salary. This approach helps quickly spot which roles such as **Senior Data Engineers** and **Data Scientists** consistently offer higher pay.
+
+##### Takeaway
+Good design choices can enhance clarity. Sorting and formatting really matter when building dashboards people will rely on.
+
+- #### Median Salary by Country (Map Chart)
+
+![Map Chart](https://github.com/user-attachments/assets/f79ddb88-0bf3-4627-b7d6-c7b777642dd5)
+
+The map chart gave me a clearer view of geographic salary trends. I color-coded salary ranges to reveal disparities across countries.
+
+> **What I Learned**: Even with the same job titles, location can heavily impact salary—something this chart makes instantly obvious.
+
+---
 
 ### Formulas and Functions
 
-#### Median Salary by Job Titles
+#### Median Salary by Job Criteria
 
-```
+```excel
 =MEDIAN(
 IF(
     (jobs[job_title_short]=A2)*
