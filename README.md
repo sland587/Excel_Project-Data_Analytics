@@ -10,7 +10,7 @@ This dashboard was completed as part of the [Luke Barousse's Excel for Data Anal
 ![1_Salary_Dashboard_Final_Dashboard](https://github.com/user-attachments/assets/1e36cff8-9e24-4c67-a0ab-6610148c01ac)
 
 ## Salary Analysis
-This project was completed as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) to demonstrate my proficiency in advanced Excel data analysis tools. Through this guided project, I applied Pivot Tables, Pivot Charts, Power Query, Power Pivot, and DAX (Data Analysis Expressions) to clean, model, and analyze data efficiently. The objective was to build a dynamic, scalable analysis that highlights key insights while showcasing my ability to work with Excel's full analytical capabilities beyond standard formulas.
+This [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_2-Analysis/1_Project_Analysis.xlsx) was completed as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) to demonstrate my proficiency in advanced Excel data analysis tools. Through this guided [project](https://github.com/sland587/Excel_Project-Data_Analytics/blob/main/Project_2-Analysis/1_Project_Analysis.xlsx), I applied Pivot Tables, Pivot Charts, Power Query, Power Pivot, and DAX (Data Analysis Expressions) to clean, model, and analyze data efficiently. The objective was to build a dynamic, scalable analysis that highlights key insights while showcasing my ability to work with Excel's full analytical capabilities beyond standard formulas.
 
 
 [Checkout my work here](Project_2-Analysis)  
