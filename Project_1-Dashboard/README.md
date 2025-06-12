@@ -51,11 +51,13 @@ Good design choices can enhance clarity. Sorting and formatting really matter wh
 
 ![Map Chart](https://github.com/user-attachments/assets/f79ddb88-0bf3-4627-b7d6-c7b777642dd5)
 
+#### Analysis & Reflection
+
+##### Insights
 The map chart gave me a clearer view of geographic salary trends. I color-coded salary ranges to reveal disparities across countries.
 
-> **What I Learned**: Even with the same job titles, location can heavily impact salary—something this chart makes instantly obvious.
-
----
+##### Takeaway
+Even with the same job titles, location can heavily impact salary—something this chart makes instantly obvious.
 
 ### Formulas and Functions
 
