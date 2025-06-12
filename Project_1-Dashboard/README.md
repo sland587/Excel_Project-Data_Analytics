@@ -10,13 +10,13 @@ This [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main
 
 ### Project Goals
 
-The goal of this project was to create a user-friendly dashboard that provides insight into data job salaries across different countries, job titles, and work schedules. The dashboard enables users to:
+The goal of this [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx) was to create a user-friendly dashboard that provides insight into data job salaries across different countries, job titles, and work schedules. The dashboard enables users to:
 
 - Explore global and role-based salary patterns
 - Identify high-paying job titles and regions
 - Interact with a clean, dynamic interface using validated filters
 
-This project helped reinforce my understanding of Excel for data analytics and dashboard design.
+This [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx) helped reinforce my understanding of Excel for data analytics and dashboard design.
 
 ### Practical Skills Utilized
 
@@ -27,7 +27,7 @@ Through this analysis, I gained practical experience using:
 - **Data Validation** – to improve user experience and dashboard reliability
 
 ### Data Jobs Dataset
-The dataset used in this project was provided as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and includes real-world data science job information from 2023.
+The dataset used in this [project](https://github.com/sland587/Excel_Project-Data_Analytics/raw/main/Project_1-Dashboard/Salary_Dashboard.xlsx) was provided as part of the [Luke Barousse's Excel for Data Analytics course](https://www.lukebarousse.com/excel) and includes real-world data science job information from 2023.
 
 ## Dashboard Build Process
 
