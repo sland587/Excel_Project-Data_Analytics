@@ -148,7 +148,7 @@ I found that roles listing more technical skills often offered higher median sal
 
 #### Takeaway
 
-- I was surprised to see how often SQL and Python appeared across roles, reinforcing my own learning path. Building a relationship between tables via Power Pivot helped me practice data modeling fundamentals I’d expect to use in a real analyst role.
+- I was pleased to see how often SQL and Python appeared across roles, reinforcing my own learning path. Building a relationship between tables via Power Pivot helped me practice data modeling fundamentals I’d expect to use in a real analyst role.
 
 ## 4️⃣ What’s the pay of the top 10 skills?
 
