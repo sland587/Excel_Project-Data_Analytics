@@ -42,7 +42,7 @@ The dataset used in this [project](https://github.com/sland587/Excel_Project-Dat
 #### Analysis & Reflection
 
 ##### Insights
-To visualize salary differences clearly, I used a horizontal bar chart sorted by descending salary. This approach helps quickly spot which roles such as **Senior Data Engineers** and **Data Scientists** consistently offer higher pay.
+To visualize salary differences clearly, I used a horizontal bar chart sorted by descending salary. This approach helps quickly spot Senior roles and Engineers consistently offer higher pay when compared to Analyst roles.
 
 ##### Takeaway
 Good design choices can enhance clarity. Sorting and formatting really matter when building dashboards people will rely on.
