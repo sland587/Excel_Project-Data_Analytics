@@ -29,7 +29,7 @@ This project solidified my comfort with Excel’s data modeling ecosystem and he
 
 ### Data Jobs Dataset
 
-The dataset used for this project contains real-world data science job information from 2023. The data is from the [ Barousse's Excel for Data Analytics course](https://www.barousse.com/excel), which provides a foundation for analyzing data using Excel. 
+The dataset used for this project contains real-world data science job information from 2023. The data is from the [Luke Barousse's Excel for Data Analytics course](https://www.barousse.com/excel), which provides a foundation for analyzing data using Excel. 
 
 ## 1️⃣ Do more skills get you better pay?
 
